@@ -49,3 +49,5 @@ elif mychoice==2 and compchoice==0:
   print("You lose")
 elif mychoice==2 and compchoice==1:
   print("You win")
+else:
+    print("Invalid input")
